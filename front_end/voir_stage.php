@@ -1,6 +1,6 @@
 <?php
 require "../back_end/connexion.php";
-echo "dzadzada";
+echo "dzdzada";
 ?>
 <html>
 
@@ -8,6 +8,13 @@ echo "dzadzada";
 
 </head>
 <body>
-    <p>dzadzadzadza</p>
+<p class="card-text">Eleves : <?php echo $demarches[''];?></p>
+
+
+
+
+
+
+
 </body>
 </html>
